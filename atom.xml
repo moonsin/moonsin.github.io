@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://moonsin.github.io/atom.xml" rel="self"/>
+  <link href="http://moonsin.github.io/"/>
+  <updated>2017-03-22T22:57:19+08:00</updated>
+  <id>http://moonsin.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    <email><![CDATA[595782958@qq.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

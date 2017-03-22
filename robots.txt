@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://moonsin.github.io/sitemap.xml 
