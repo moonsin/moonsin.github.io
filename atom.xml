@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://moonsin.github.io/atom.xml" rel="self"/>
   <link href="http://moonsin.github.io/"/>
-  <updated>2017-03-22T23:08:46+08:00</updated>
+  <updated>2017-03-22T23:15:31+08:00</updated>
   <id>http://moonsin.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First]]></title>
+    <link href="http://moonsin.github.io/blog/2017/03/22/first/"/>
+    <updated>2017-03-22T23:14:34+08:00</updated>
+    <id>http://moonsin.github.io/blog/2017/03/22/first</id>
+    <content type="html"><![CDATA[<h1>One category</h1>
+
+<p>categories: Sass</p>
+
+<p> # Multiple categories example 1
+ categories: [CSS3, Sass, Media Queries]</p>
+
+<p>  # Multiple categories example 2
+  categories:
+  - CSS3
+  - Sass
+  - Media Queries</p>
+]]></content>
+  </entry>
   
 </feed>
